@@ -26,10 +26,20 @@ The organization seeks to utilize HR data to address the following objectives:
 ## Dashboards:
 
 ![Alt Text](https://github.com/Ruthwik14/Power-BI/blob/main/HR%20Dataset%20-%20Employee%20retention%20and%20satisfaction/Power%20Dashboard/Power%20BI%20Dashboard_page-0001.jpg)
+
+
 ![Alt Text](https://github.com/Ruthwik14/Power-BI/blob/main/HR%20Dataset%20-%20Employee%20retention%20and%20satisfaction/Power%20Dashboard/Power%20BI%20Dashboard_page-0002.jpg)
+
+
 ![Alt Text](https://github.com/Ruthwik14/Power-BI/blob/main/HR%20Dataset%20-%20Employee%20retention%20and%20satisfaction/Power%20Dashboard/Power%20BI%20Dashboard_page-0003.jpg)
+
+
 ![Alt Text](https://github.com/Ruthwik14/Power-BI/blob/main/HR%20Dataset%20-%20Employee%20retention%20and%20satisfaction/Power%20Dashboard/Power%20BI%20Dashboard_page-0004.jpg)
+
+
 ![Alt Text](https://github.com/Ruthwik14/Power-BI/blob/main/HR%20Dataset%20-%20Employee%20retention%20and%20satisfaction/Power%20Dashboard/Power%20BI%20Dashboard_page-0005.jpg)
+
+
 ![Alt Text](https://github.com/Ruthwik14/Power-BI/blob/main/HR%20Dataset%20-%20Employee%20retention%20and%20satisfaction/Power%20Dashboard/Power%20BI%20Dashboard_page-0006.jpg)
 
 
