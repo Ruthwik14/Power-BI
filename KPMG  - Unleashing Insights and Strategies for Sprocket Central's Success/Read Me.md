@@ -76,7 +76,7 @@ In the Interpretation phase, our focus shifts to extracting meaningful insights 
 
 In Task 3, the focus shifted to creating a dynamic and visually appealing dashboard to present the results of the analysis to the client. The dashboard served as a centralized platform to showcase data summaries, analysis results, and key findings, enabling stakeholders to gain actionable insights at a glance. Specific recommendations were provided regarding Sprocket Central's marketing and growth strategy, targeting the 40-60 age group in NSW State, with a preference for the manufacturing industry. The presentation highlighted the significance of leveraging data-driven insights to inform strategic decision-making and maximize business impact.
 
-![Alt Text]([image_link_here.jpg](https://github.com/Ruthwik14/Power-BI/blob/main/KPMG%20%20-%20Unleashing%20Insights%20and%20Strategies%20for%20Sprocket%20Central's%20Success/Power%20BI%20Dashboard.jpg))
+![Alt Text](https://github.com/Ruthwik14/Power-BI/blob/main/KPMG%20%20-%20Unleashing%20Insights%20and%20Strategies%20for%20Sprocket%20Central's%20Success/Power%20BI%20Dashboard.jpg)
 
 
 ## Conclusion:
